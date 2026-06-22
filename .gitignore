@@ -1,0 +1,19 @@
+#virtual environment
+venv/
+#env file
+.env
+.env.local
+#python cache
+__pycache__/
+*.pyc
+# Large ML / temp files
+*.pt
+*.bin
+*.log
+# node modules
+node_modules/
+# other unnecessary files
+backend/uploads/
+backend/test.mp3
+backend/package.json
+backend/package-lock.json

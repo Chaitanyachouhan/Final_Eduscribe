@@ -1,0 +1,18 @@
+fastapi
+uvicorn[standard]
+python-multipart
+httpx
+torch --index-url https://download.pytorch.org/whl/cpu
+transformers
+sentence-transformers
+faster-whisper
+groq
+google-genai
+librosa
+soundfile
+numpy
+pydub
+PyMuPDF
+python-pptx
+supabase
+python-dotenv
